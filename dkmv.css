@@ -1,0 +1,224 @@
+@media(max-width: 320px) {
+  body {
+    font-size: 10px;
+  }
+  header {
+    padding: 10px 20px;
+    font-size: 10px;
+  }
+
+  .effects {
+    height: 92vh;
+  }
+
+  .stars {
+    padding: 0 20px;
+  }
+
+  .stars_box-element {
+    width: 2px;
+    height: 2px;
+  }
+
+  .stars_char-1 {
+    margin-top: 6.66666667px;
+  }
+  .stars_char-2 {
+    margin-top: 43.3333333px;
+  }
+  .stars_char-3 {
+    margin-top: 20px;
+  }
+  .stars_char-4 {
+    margin-top: 36.6666667px;
+  }
+  .stars_char-5 {
+    margin-top: 0px;
+  }
+  .stars_char-6 {
+    margin-top: 30px;
+  }
+  .stars_char-7 {
+    margin-top: 13.3333333px;
+  }
+  .stars_char-8 {
+    margin-top: 50px;
+  }
+  .stars_char-9 {
+    margin-top: 20px;
+  }
+  .stars_char-10 {
+    margin-top: 3.33333333px;
+  }
+  .stars_char-11 {
+    margin-top: 40px;
+  }
+  .stars_char-12 {
+    margin-top: 23.3333333px;
+  }
+
+  .stars_box_desktop {
+    display: none;
+  }
+
+  .fall {
+    margin-top: -170px;
+    padding: 0 10px;
+    min-width: 320px;
+  }
+
+  .fall_line-element {
+    width: 1px;
+    height: 274px;
+  }
+
+  .fall_line_desktop {
+    display: none;
+  }
+
+  .tagline_btn {
+    font-size: 20px;
+    margin: 0 8px;
+  }
+
+  .info p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .info_block_left {
+    padding: 40px 0 0 20px;
+  }
+
+  .frame_adaptation {
+    width: 40px;
+    height: 40px;
+  }
+
+  .frame_1 {
+    margin: -20px 20px 0 0;
+  }
+
+  .frame_2 {
+    margin: 91px 0 0 0;
+  }
+
+  .info_block_right {
+    padding: 236px 20px 0 20px;
+  }
+
+  .elipses {
+    width: 170px;
+    height: 170px;
+  }
+
+  .king {
+    width: 160px;
+    height: 160px;
+  }
+  .lennon {
+    width: 160px;
+    height: 160px;
+  }
+  .jobs {
+    width: 160px;
+    height: 160px;
+  }
+  .mask {
+    width: 160px;
+    height: 160px;
+  }
+
+  .events p {
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+  .title {
+    padding: 40px 0 40px 20px;
+  }
+
+  .title_name {
+    font-size: 20px;
+    line-height: 42px;
+  }
+
+  .date {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .bord_adaptation {
+    width: 85px;
+    height: 75px;
+  }
+
+  .image_adaptation {
+    width: 100px;
+    height: 50px;
+  }
+
+  .bord-1 {
+    left: 213px;
+    top: 1287px;
+  }
+
+  .bord-2 {
+    left: 33px;
+    top: 1487px;
+  }
+
+  .bord-3 {
+    left: 213px;
+    top: 1641px;
+  }
+
+  .date_left-1 {
+    padding: 0 0 10px 20px;
+  }
+
+  .image_left-1 {
+    margin: 0 20px 0 0;
+  }
+
+  .lecture_left {
+    padding: 0 0 60px 20px;
+  }
+
+  .date_right {
+    padding: 0 20px 10px 0;
+  }
+
+  .image_right {
+    margin: 0 0 0 20px;
+  }
+
+  .exhibition_right {
+    padding: 0 36px 60px 0;
+  }
+
+  .date_left-3 {
+    padding: 0 0 10px 20px;
+  }
+
+  .guests_left {
+    padding: 0 0 0 20px;
+  }
+
+  .image_left-2 {
+    margin: 0 20px 0 0;
+  }
+
+  footer {
+    padding: 40px 20px 0 20px;
+  }
+
+  .social_adaptation {
+    width: 30px;
+    height: 30px;
+  }
+
+  .social_media img {
+    padding: 0 0 0 10px;
+  }
+}

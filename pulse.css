@@ -1,0 +1,73 @@
+<div class="pulse_1">
+  <div class="pulse_star"></div>
+</div>
+<div class="pulse_2">
+  <div class="pulse_star"></div>
+</div>
+<div class="pulse_3">
+  <div class="pulse_star"></div>
+</div>
+
+.pulse_1 {
+  padding: 100px 600px 0 0;
+}
+
+.pulse_star {
+  width: 40px;
+  height: 40px;
+  border: none;
+  box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.7);
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  animation: pulse_star 2.25s infinite cubic-bezier(0.66, 0, 0, 1);
+}
+
+.pulse_star:hover {
+  animation: none;
+}
+
+.pulse_2 {
+  padding: 80px 0 0 400px;
+}
+
+.pulse_3 {
+  padding: 120px 400px 0 0;
+}
+
+@keyframes pulse_star {
+  to {
+    box-shadow: 0 0 0 50px rgba(255, 255, 255, 0);
+  }
+}
+
+
+
+
+
+
+
+.pulse_1 {
+  padding: 50px 50px 0 0;
+}
+
+.pulse_star {
+  width: 20px;
+  height: 20px;
+}
+
+@keyframes pulse_star {
+  to {
+    box-shadow: 0 0 0 30px rgba(255, 255, 255, 0);
+  }
+}
+
+.pulse_2 {
+  padding: 40px 0 0 40px;
+}
+
+
+
+.pulse_3 {
+  padding: 60px 60px 0 0;
+}
